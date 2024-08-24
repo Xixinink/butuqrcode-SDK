@@ -1,10 +1,11 @@
-<h5>钚兔扫一扫 SDK</h5>
+<h2>钚兔扫一扫 SDK</h2>
 
 该SDK目前仅在“友唔”App中使用
+<br>
 将于稳定后对其他App开放使用
 
 <br>
-<h5>介绍/简介</h5>
+<h2>介绍/简介</h2>
 
 1、目前仅支持扫描二维码以及条形码
 <br>
@@ -15,4 +16,5 @@
 4、支持开启闪光灯
 
 <br>
-<h5>截图</h5>
+<h2>截图</h2>
+![钚兔扫一扫SDK演示截图](https://raw.githubusercontent.com/butuink/butuqrcode-SDK/main/butuqrcode.jpg)
