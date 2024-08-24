@@ -17,4 +17,5 @@
 
 <br>
 <h2>截图</h2>
-![钚兔扫一扫SDK演示截图](https://raw.githubusercontent.com/butuink/butuqrcode-SDK/main/butuqrcode.jpg)
+
+![演示截图](https://raw.githubusercontent.com/butuink/butuqrcode-SDK/main/butuqrcode.jpg)
